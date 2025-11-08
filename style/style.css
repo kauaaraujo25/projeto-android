@@ -72,6 +72,8 @@ header > p {
     padding-right: 10px;
     padding-left: 10px;
     margin: auto;
+    padding-bottom: 50;
+    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.726);
 }
 
 nav {
@@ -100,13 +102,12 @@ main {
      min-width: 300px;
      max-width: 1000px;
      margin: auto;
-     margin-inline: 5%;
      margin-bottom: 30px;
-    background-color: white;
-    padding: 20px;
-    box-shadow: 0px 0px 10px black;
-    border-bottom-left-radius: 10px;
-    border-bottom-right-radius: 10px;
+     background-color: white;
+     padding: 20px;
+     box-shadow: 0px 0px 10px black;
+     border-bottom-left-radius: 10px;
+     border-bottom-right-radius: 10px;
 }
 
 main img {
